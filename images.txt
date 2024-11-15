@@ -1,4 +1,1 @@
 nginx
-centos7
-oracle
-oceanbase
