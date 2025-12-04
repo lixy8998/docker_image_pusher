@@ -2,4 +2,4 @@ nginx
 oceanbase/oceanbase-ce
 centos:7
 mysql
-openjdk:8-jdk-alpine
+ubantu
