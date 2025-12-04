@@ -1,3 +1,5 @@
 nginx
 oceanbase/oceanbase-ce
-centos:minimal
+centos:7
+mysql
+
