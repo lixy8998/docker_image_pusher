@@ -1,2 +1,9 @@
 nginx
 oceanbase/oceanbase-ce
+centos
+tomcat
+mysql
+postgres
+mariadb
+alpine
+python
