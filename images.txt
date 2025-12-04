@@ -2,3 +2,5 @@ nginx
 oceanbase/oceanbase-ce
 centos:7
 mysql
+ubuntu
+alpine
