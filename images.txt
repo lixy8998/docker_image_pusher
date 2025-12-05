@@ -4,3 +4,4 @@ centos:7
 mysql
 ubuntu
 alpine
+tomcat
