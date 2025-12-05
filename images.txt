@@ -5,3 +5,4 @@ mysql
 ubuntu
 alpine
 tomcat
+oracle-db-examples
