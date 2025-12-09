@@ -5,3 +5,5 @@ mysql
 ubuntu
 alpine
 tomcat
+zabbix/zabbix-java-gateway
+zabbix/zabbix-server-mysql
